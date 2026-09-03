@@ -2,8 +2,7 @@
 
 > An AI-powered customer support agent built on **n8n** that handles e-commerce inquiries end-to-end via Telegram — 24/7, with zero manual triage.
 
-![Architecture Diagram](./assets/ai-ecommerce-support-architecture.png)
-
+![Architecture Diagram](./ai-ecommerce-support-architecture.png)
 **Built by:** [Omar Mohamed](https://www.linkedin.com/in/omar-mohamed-267361418/) — AI Automation Specialist
 **Platform:** n8n · **AI Model:** OpenAI GPT-4.1-mini
 📖 Full write-up: [CASE_STUDY.md](./CASE_STUDY.md)
